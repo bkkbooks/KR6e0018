@@ -32,7 +32,7 @@ assets:
   - {seq: 10, filename: KR6e0018_010-X.yaml, hash: 'sha256:51f1a8fdfd2b05036e0bbfa602eebf2b95f29f09300a3aca73007ce042ee2b8c'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0018_000-X.markers.yaml, hash: 'sha256:e0662bf859542148ddd68d5bad172c20c016ae04618e96fea68f88a9c01b6056'}
-  - {seq: 1, role: markers, filename: assets/KR6e0018_001-X.markers.yaml, hash: 'sha256:b07625c51ca924e51d3be607213a49b3ad409f77d976f11c97a94a9775b232da'}
+  - {seq: 1, role: markers, filename: assets/KR6e0018_001-X.markers.yaml, hash: 'sha256:10886ad85140938b445c71df633302619d581e9aaa415b2fdc8803919ed2d449'}
   - {seq: 2, role: markers, filename: assets/KR6e0018_002-X.markers.yaml, hash: 'sha256:2c03537c745778e9c948e3f95b83505c5b85c43e20349a1c7db693556300fb17'}
   - {seq: 3, role: markers, filename: assets/KR6e0018_003-X.markers.yaml, hash: 'sha256:e2b5795defd417a3e2a20a88254c747e993ce7c3a09e5e1779f8903d185e80b6'}
   - {seq: 4, role: markers, filename: assets/KR6e0018_004-X.markers.yaml, hash: 'sha256:29ee9318a58f8b718773982f4e14fb41af639dd6f0be97c5e1c3bd01f3ebb52d'}
@@ -163,4 +163,4 @@ table_of_contents:
   label: 大方廣佛華嚴經疏科文卷第十
   type: juan
   level: 1
-hash: sha256:6273b07bc1e6d457a537a58f0c47dc8f5664af4ab64d18190dd9c7033206834f
+hash: sha256:186aa20ac1762ed45b970a7a202dbfb4f5d1f6fd9b6563fcd5caef6b09652cb3
