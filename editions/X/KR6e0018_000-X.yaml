@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6e0018/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 大方廣佛華嚴經疏鈔序科文釋斯鈔序啟以三門三初題目大方次撰人清涼後本文二初教起源流二初通明諸教四一明如來說經至聖二明菩薩造論大士三縱奪遣妨二初縱法本離言雖忘後奪不礙言說而浩四出示經意二初舉例設教蓋欲後因言悟入窮無後別指當經二初標指斯經後嘆勝不可後鈔興本末二初依經製疏三初晉譯先彰二初旨趣玄微晉譯後賢首得旨賢首二唐翻後闡二初新經罔愽唐翻後刊定迷宗後哲三疏成廣播二初陳謙述不揆後疏遠流通偶溢後請集鈔文四初學徒咨請四初標眾講者二陳詞咸叩三按定大教四謙承親承二冀遠重宣二初慜後垂範後正請希埀三法師承領三初明製鈔意順斯次引古釋成昔人後出意製鈔今為四述作體式三初正顯然繁次謙陳顯此後出理意夫
   hash: sha256:b07fa522bc45737cb774e4167c7dde31b87ecacd3efd466d90dd35e5312cedbf
   markers:
   - {type: 其他, offset: 0, content: 經疏鈔序科文, id: KR6e0018_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 288, content: 經疏科文, id: KR6e0018_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 華嚴經疏科文
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X05/X05n0231.xml
     old_id: X05n0231
-hash: sha256:15b007e5414a677d0311f2582c4e9d159a87c88a3f9a12a9db0cecbfe3bed9ea
+hash: sha256:bc835dd176a13acc5280edeab0bc8d714f8ba707aef6195187cfcf4005ff6905

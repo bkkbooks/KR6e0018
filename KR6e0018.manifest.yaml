@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6e0018_000.yaml, hash: 'sha256:084fd71bdb4fe6465a661c338b04b38a427e95c32156eecd30d2941ab377392d'}
+  - {seq: 0, filename: KR6e0018_000.yaml, hash: 'sha256:417fb5e4ccdfda4093f78d9bce24248c3d6938ccd41ec9df15e54a1e74932a52'}
   - {seq: 1, filename: KR6e0018_001.yaml, hash: 'sha256:ad226a6b69624ccd1448b77c437f703d212a3332339329e7ea39db89df962233'}
   - {seq: 2, filename: KR6e0018_002.yaml, hash: 'sha256:daa2caf00bd465f1f52affa35c4e7bea5215e3e2d8335fa68d6bc079cf7d14bc'}
   - {seq: 3, filename: KR6e0018_003.yaml, hash: 'sha256:9a933297b544d910883f47d16c38cd543f562cd0fc597da7c8b2245967c6ed31'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6e0018_009.yaml, hash: 'sha256:6699d241554a3b9c610d099461cc9a9fff665c5da15fedf8c0edffa9aeef20ed'}
   - {seq: 10, filename: KR6e0018_010.yaml, hash: 'sha256:5bf16a7ee743be5961289dd2a7597104b570943144fcd108960e8e1a65ed243c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0018_000.markers.yaml, hash: 'sha256:7a506f7ec6b497aff640a816e8821ba8b49623005d952340f038bf735cde62c5'}
+  - {seq: 0, role: markers, filename: assets/KR6e0018_000.markers.yaml, hash: 'sha256:8040219c2f838de873a2ec3138019519b233ebf34a33f8b91379cde6ae263fc6'}
   - {seq: 1, role: markers, filename: assets/KR6e0018_001.markers.yaml, hash: 'sha256:fd1459dd8d953e00eeabff956cd4e74c2817b00afa403be289c9ff63231d636e'}
   - {seq: 2, role: markers, filename: assets/KR6e0018_002.markers.yaml, hash: 'sha256:f31e859122080abaf7a136e2f353957425342a30ab42d251862ad1b133aae533'}
   - {seq: 3, role: markers, filename: assets/KR6e0018_003.markers.yaml, hash: 'sha256:4556dada2b0e8150c9441c93ab1ec538c046fd74f92cd748070fcb87b914b5e9'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0018_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 經疏鈔序科文
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6e0018_X_000-mulu-2
     span:
-    - front
+    - body
     - 288
     - 288
   label: 經疏科文
@@ -165,7 +165,7 @@ table_of_contents:
   label: 大方廣佛華嚴經疏科文卷第十
   type: juan
   level: 1
-hash: sha256:5473752332cd2dfe55a16b8b3dfec50d7ed4062f6f0fe5140c4572333648fb1b
+hash: sha256:9e5432a08f2c273b709c72402d23706cd902dec118eb0991d3831fcc4bc41388
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
